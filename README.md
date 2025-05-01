@@ -1,6 +1,8 @@
 # Utkarsh Singh 🚀 
 **Blockchain Developer | Rust Enthusiast | Full Stack Engineer**
 
+Passionate about building decentralized solutions and scalable web applications. Always exploring the intersection of blockchain technology and modern web development.
+
 ## 🔥 Featured Projects
 
 ### 1. Decentralized Voting System 🗳️
