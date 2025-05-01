@@ -58,7 +58,7 @@ Passionate about building decentralized solutions and scalable web applications.
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 
 ## 📈 GitHub Stats
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=utkarsh-singh-1729&theme=dark&border_radius=5)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-singh-1729&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/utkarsh-singh-1729)
 
 ## 💡 What I'm Exploring Next
