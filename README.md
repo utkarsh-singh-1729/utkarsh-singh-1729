@@ -1,9 +1,6 @@
 # Utkarsh Singh 🚀 
 **Blockchain Developer | Rust Enthusiast | Full Stack Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([your-linkedin](https://www.linkedin.com/in/utkarsh-singh1729/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWl1%2BkfhsS9WhVq96KH0SLA%3D%3D))
-[![Visitors](https://komarev.com/ghpvc/?username=utkarsh-singh-1729&label=Profile%20Views&color=blue)](https://github.com/utkarsh-singh-1729)
-
 ## 🔥 Featured Projects
 
 ### 1. Decentralized Voting System 🗳️
