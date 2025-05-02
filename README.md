@@ -5,6 +5,22 @@ Passionate about building decentralized solutions and scalable web applications.
 
 ## 🛠 Tech Stack Expertise
 
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)
+![Rust](https://img.shields.io/badge/-Rust-0D1117?style=flat&logo=rust)
+![Go](https://img.shields.io/badge/-Golang-0D1117?style=flat&logo=go)
+![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=flat&logo=tensorflow)
+
+### Infrastructure & DevOps
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-aws)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=flat&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=flat&logo=terraform)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)
+
+
 **Blockchain**  
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white)
