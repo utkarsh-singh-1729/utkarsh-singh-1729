@@ -3,6 +3,23 @@
 
 Passionate about building decentralized solutions and scalable web applications. Always exploring the intersection of blockchain technology and modern web development.
 
+## 🛠 Tech Stack Expertise
+
+**Blockchain**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white)
+
+**Backend**  
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+
+
 ## 🔥 Featured Projects
 
 ### 1. Decentralized Voting System 🗳️
@@ -41,28 +58,6 @@ Passionate about building decentralized solutions and scalable web applications.
   - Multiple question types
   - 500ms response time for real-time updates
 
-## 🛠 Tech Stack Expertise
-
-**Blockchain**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white)
-
-**Backend**  
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-
-
-## 💡 What I'm Exploring Next
-- Zero-knowledge proofs applications in voting systems
-- High-performance storage systems with Rust
-- Web3 authentication patterns
-- Distributed systems architecture
 
 ## 📫 Let's Collaborate!
 - 📧 businessutkarsh22@gmail.com
