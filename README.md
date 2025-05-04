@@ -76,7 +76,7 @@ Passionate about building decentralized solutions and scalable web applications.
  
 
 
-[![Profile Views](https://visitor-badge.glitch.me/badge?page_id=utkarsh-singh-1729.utkarsh-singh-1729)](https://github.com/utkarsh-singh-1729)
+[![Profile Views](https://visitor-badge.glitch.me/badge?page_id=utkarsh-singh-1729.utkarsh-singh-1729)
 ### 📊 Profile Views Counter 
 **Powered by [Visitor Badge](https://github.com/utkarsh-singh-1729/utkarsh-singh-1729)**  
 ![Profile Views](https://hits.sh/github.com/utkarsh-singh-1729.svg?style=flat&label=Profile%20Views&color=blue&labelColor=black)
