@@ -77,7 +77,6 @@ Passionate about building decentralized solutions and scalable web applications.
 
 
 ## 📊 Profile Views Counter 
-(https://github.com/utkarsh-singh-1729/utkarsh-singh-1729)**  
 ![Profile Views](https://hits.sh/github.com/utkarsh-singh-1729.svg?style=flat&label=Profile%20Views&color=blue&labelColor=black)
 
 ## 📫 Let's Collaborate!
