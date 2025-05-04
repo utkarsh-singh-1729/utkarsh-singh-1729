@@ -73,7 +73,10 @@ Passionate about building decentralized solutions and scalable web applications.
   - Live score tracking
   - Multiple question types
   - 500ms response time for real-time updates
+ 
 
+
+[![Profile Views](https://visitor-badge.glitch.me/badge?page_id=utkarsh-singh-1729.utkarsh-singh-1729)](https://github.com/utkarsh-singh-1729)
 
 
 
