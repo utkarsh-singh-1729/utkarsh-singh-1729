@@ -78,4 +78,5 @@ Passionate about building decentralized solutions and scalable web applications.
 
 
 ## 📫 Let's Collaborate!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 - 📧 businessutkarsh22@gmail.com
