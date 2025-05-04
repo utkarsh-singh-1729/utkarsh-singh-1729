@@ -74,7 +74,7 @@ Passionate about building decentralized solutions and scalable web applications.
   - Multiple question types
   - 500ms response time for real-time updates
 
- ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=utkarsh-singh-172)
+
 
 
 ## 📫 Let's Collaborate!
