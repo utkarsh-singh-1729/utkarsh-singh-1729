@@ -1,4 +1,4 @@
-***Hi there, I'm Utkarsh Singh 👋***
+<span style="color:skyblue">***Hi there, I'm Utkarsh Singh 👋***</span>
 
 **Blockchain Developer | Open sourse Enthusiast | Full Stack Developer**
 
