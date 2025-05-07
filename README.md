@@ -1,4 +1,4 @@
-                        ### Hi there, I'm Utkarsh Singh 👋
+  ### Hi there, I'm Utkarsh Singh 👋
 **Blockchain Developer | Open sourse Enthusiast | Full Stack Developer**
 
 Passionate about building decentralized solutions and scalable web applications. Always exploring the intersection of blockchain technology and modern web development.
