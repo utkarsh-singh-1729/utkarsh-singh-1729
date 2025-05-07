@@ -1,4 +1,4 @@
-<center><H1>Hi there, I'm Utkarsh Singh 👋</H1></center>
+<H1>            Hi there, I'm Utkarsh Singh 👋 </H1>
 
 **Blockchain Developer | Open sourse Enthusiast | Full Stack Developer**
 
