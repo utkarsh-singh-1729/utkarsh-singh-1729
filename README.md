@@ -78,9 +78,9 @@ Passionate about building decentralized solutions and scalable web applications.
 
  ## 📈 GitHub Stats
 
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh-singh-1729&show_icons=true&theme=radical&hide_title=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-singh-1729&layout=compact&theme=radical)
-
-
+![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh-singh-1729&show_icons=true&theme=radical&hide_title=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-singh-1729&layout=compact&theme=dark)](https://github.com/utkarsh-singh-1729/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-singh-1729&cache_seconds=60)](...)
 
 ## 📊 Profile Views Counter 
 ![Profile Views](https://hits.sh/github.com/utkarsh-singh-1729.svg?style=flat&label=Profile%20Views&color=blue&labelColor=black)
