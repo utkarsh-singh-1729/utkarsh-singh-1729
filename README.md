@@ -1,90 +1,60 @@
-<H1>            Hi there, I'm Utkarsh Singh 👋 </H1>
+# Hi there, I'm Utkarsh Singh! 👋
 
-**Blockchain Developer | Open sourse Enthusiast | Full Stack Developer**
+### Passionate about building cool stuff with code | Web Dev | Machine Learning | Python
 
-Passionate about building decentralized solutions and scalable web applications. Always exploring the intersection of blockchain technology and modern web development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/your-username/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-## 🛠 Tech Stack Expertise
+---
 
+### 🔨 **Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)
-![Rust](https://img.shields.io/badge/-Rust-0D1117?style=flat&logo=rust)
-![Go](https://img.shields.io/badge/-Golang-0D1117?style=flat&logo=go)
-![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=flat&logo=tensorflow)
+---
 
-### Infrastructure & DevOps
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-aws)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=flat&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/-Terraform-0D1117?style=flat&logo=terraform)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh-singh-1729&show_icons=true&theme=radical" alt="Utkarsh's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-singh-1729&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-singh-1729&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
-**Blockchain**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white)
+---
 
-**Backend**  
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+### 🚀 **Featured Projects**
+1. **[Stock Price Prediction](https://github.com/utkarsh-singh-1729/Stock-Price-Prediction)**  
+   LSTM-based model for stock forecasting using TensorFlow/Keras.
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+2. **[TextUtils-React-App](https://github.com/utkarsh-singh-1729/TextUtils-React-App)**  
+   A React app for text manipulation with dark mode.
 
+3. **[Discord Bot](https://github.com/utkarsh-singh-1729/Discord-Bot)**  
+   Python bot for moderation and fun commands.
 
-## 🔥 Featured Projects
+---
 
-### 1. Decentralized Voting System 🗳️
-**[GitHub Repo](https://github.com/utkarsh-singh-1729/Decentralized-Voting-Systems)** | 
-- Blockchain-based voting system with end-to-end verifiability
-- **Tech Stack:** Solidity, React.js, Web3.js, IPFS
-- Features: 
-  - Immutable vote recording on Ethereum blockchain
-  - Voter anonymity with zero-knowledge proofs
-  
+### 🌱 **Learning Goals**
+- Improving DevOps/Cloud skills (Docker, AWS)
+- Exploring Large Language Models (LLMs)
+- Contributing to open-source projects
 
-### 2. Rust-based File Storage Tool 🦀💾
-**[GitHub Repo](https://github.com/utkarsh-singh-1729/Rust-Based-File-Storage-Tool)** 
-- Decentralized file storage system using blockchain concepts
-- **Tech Stack:** Rust, SHA-256, Actix Web
-- Features:
-  - File chunking and distributed storage
-  - Cryptographic integrity verification
-  - 40% faster than traditional Node.js implementations
+---
 
-### 3. AttendEase - Attendance Tracker 📊✅
-**[GitHub Repo](https://github.com/utkarsh-singh-1729/AttendEase)** 
-- Enterprise-grade attendance management system
-- **Tech Stack:** React, Firebase, Chart.js, Material-UI
-- Features:
-  - Real-time attendance tracking
-  - Automated report generation
-  - 90% faster attendance processing vs manual systems
+### 📫 **Let's Connect**
+- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-username)
+- ✍️ Blog: [Your Blog/Portfolio Link](https://your-portfolio.com) *(add if applicable)*
+- 📧 Email: your.email@gmail.com
 
-### 4. QuizMaster - Quiz Application 🧠⚡
-**[GitHub Repo](https://github.com/utkarsh-singh-1729/Quiz-Application-)**
-- Real-time quiz platform with leaderboards
-- **Tech Stack:** React, Firebase, CSS, WebSockets
-- Features:
-  - Live score tracking
-  - Multiple question types
-  - 500ms response time for real-time updates
-
-
-
- ## 📈 GitHub Stats
-
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh-singh-1729&show_icons=true&theme=radical&hide_title=truecache_seconds=3)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-singh-1729&layout=compact&theme=dark&cache_seconds=3)](https://github.com/utkarsh-singh-1729/github-readme-stats)
-
-
-## 📊 Profile Views Counter 
-![Profile Views](https://hits.sh/github.com/utkarsh-singh-1729.svg?style=flat&label=Profile%20Views&color=blue&labelColor=black)
-
-## 📫 Let's Collaborate!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-singh1729)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=utkarsh-singh-1729&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
