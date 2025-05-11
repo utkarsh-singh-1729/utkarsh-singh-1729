@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Utkarsh Singh</h1>
-<h3 align="center">Blockchain Developer | Full Stack Engineer | Open Source Contributor</h3>
+<h3 align="center">Blockchain Developer | Full Stack Developer | Open Source Contributor</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/utkarsh-singh1729">
+  <a href="https://www.linkedin.com/in/utkarsh-singh1729/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:businessutkarsh22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -45,22 +45,18 @@
 ### 🔥 Featured Projects
 
 #### 1. [Decentralized Voting System 🗳️](https://github.com/utkarsh-singh-1729/Decentralized-Voting-Systems)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 - Blockchain-based voting DApp with zero-knowledge proofs
 - Features: IPFS storage, Ethereum smart contracts, anonymous voting
 
 #### 2. [Rust File Storage 🦀](https://github.com/utkarsh-singh-1729/Rust-Based-File-Storage-Tool)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) ![SHA256](https://img.shields.io/badge/SHA-256-4B515D?style=flat)
 - High-performance distributed file storage system
 - 40% faster than Node.js implementations with chunked encryption
 
 #### 3. [AttendEase 📊](https://github.com/utkarsh-singh-1729/AttendEase)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 - Enterprise attendance system with real-time analytics
 - Reduces processing time by 90% compared to manual tracking
 
 #### 4. [QuizMaster ⚡](https://github.com/utkarsh-singh-1729/Quiz-Application-)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=websocket)
 - Real-time quiz platform with 500ms response latency
 - Features live leaderboards and PWA capabilities
 
@@ -82,10 +78,10 @@
 
 ### 📫 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/utkarsh-singh1729">
+  <a href="https://www.linkedin.com/in/utkarsh-singh1729/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:businessutkarsh22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
