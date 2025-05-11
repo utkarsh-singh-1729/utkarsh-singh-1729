@@ -65,8 +65,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=utkarsh-singh-1729&show_icons=true&theme=radical&cache_seconds=2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-singh-1729&layout=compact&theme=radical&cache_seconds=2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=utkarsh-singh-1729&show_icons=true&theme=radical&cache_seconds=1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-singh-1729&layout=compact&theme=radical&cache_seconds=1">
 </div>
 
 ---
