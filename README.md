@@ -1,60 +1,108 @@
-# Hi there, I'm Utkarsh Singh! 👋
-
-### Passionate about building cool stuff with code | Web Dev | Machine Learning | Python
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/your-username/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
----
-
-### 🔨 **Tech Stack**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh-singh-1729&show_icons=true&theme=radical" alt="Utkarsh's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-singh-1729&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
+<h1 align="center">Hi there, I'm Utkarsh Singh 👋</h1>
+<h3 align="center">Blockchain Developer | Open Source Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-singh-1729&layout=compact&theme=radical" alt="Top Languages"/>
+  <a href="https://linkedin.com/in/utkarsh-singh1729" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 ---
 
-### 🚀 **Featured Projects**
-1. **[Stock Price Prediction](https://github.com/utkarsh-singh-1729/Stock-Price-Prediction)**  
-   LSTM-based model for stock forecasting using TensorFlow/Keras.
+### 🛠 Tech Stack Expertise
 
-2. **[TextUtils-React-App](https://github.com/utkarsh-singh-1729/TextUtils-React-App)**  
-   A React app for text manipulation with dark mode.
+**Blockchain**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-181A1F?style=flat&logo=hardhat&logoColor=white)
 
-3. **[Discord Bot](https://github.com/utkarsh-singh-1729/Discord-Bot)**  
-   Python bot for moderation and fun commands.
+**Backend**  
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+**DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ---
 
-### 🌱 **Learning Goals**
-- Improving DevOps/Cloud skills (Docker, AWS)
-- Exploring Large Language Models (LLMs)
-- Contributing to open-source projects
+### 🔥 Featured Projects
+
+#### 1. [Decentralized Voting System 🗳️](https://github.com/utkarsh-singh-1729/Decentralized-Voting-Systems)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs)
+
+- Blockchain-based voting system with end-to-end verifiability
+- Features: 
+  - Immutable vote recording on Ethereum blockchain
+  - Voter anonymity with zero-knowledge proofs
+  - IPFS for decentralized data storage
+
+#### 2. [Rust-based File Storage Tool 🦀💾](https://github.com/utkarsh-singh-1729/Rust-Based-File-Storage-Tool)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![SHA256](https://img.shields.io/badge/SHA-256-4B515D?style=flat)
+
+- High-performance decentralized file storage system
+- Features:
+  - File chunking and distributed storage
+  - Cryptographic integrity verification
+  - 40% faster than Node.js implementations
+
+#### 3. [AttendEase - Attendance Tracker 📊✅](https://github.com/utkarsh-singh-1729/AttendEase)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+
+- Enterprise-grade attendance management system
+- Features:
+  - Real-time tracking with WebSockets
+  - Automated PDF report generation
+  - 90% faster processing vs manual systems
+
+#### 4. [QuizMaster - Real-time Quiz App 🧠⚡](https://github.com/utkarsh-singh-1729/Quiz-Application-)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+
+- Interactive quiz platform with live leaderboards
+- Features:
+  - Multiple question types support
+  - 500ms response time for real-time updates
+  - Progressive Web App (PWA) capabilities
 
 ---
 
-### 📫 **Let's Connect**
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-username)
-- ✍️ Blog: [Your Blog/Portfolio Link](https://your-portfolio.com) *(add if applicable)*
-- 📧 Email: your.email@gmail.com
+### 📈 GitHub Activity
 
+<div align="center">
+  <a href="https://github.com/utkarsh-singh-1729">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=utkarsh-singh-1729&show_icons=true&theme=radical&hide_title=true">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-singh-1729&layout=compact&theme=dark">
+  </a>
+</div>
+
+---
+
+### 👀 Profile Views
+![Profile Views](https://hits.sh/github.com/utkarsh-singh-1729.svg?style=flat&label=Visitors&color=blue&labelColor=black)
+
+---
+
+### 🤝 Let's Collaborate!
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarsh-singh-1729&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <a href="https://linkedin.com/in/utkarsh-singh1729" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
